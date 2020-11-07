@@ -3,7 +3,7 @@
 ```
 $ apt update && apt upgrade
 $ apt install git python2
-$ git clone https://github.com/xHak9x/fbi.git
+$ https://github.com/munnahacktek/fbtool.git
 $ cd fbi
 ```
 
@@ -13,6 +13,6 @@ $ pip2 install -r requirements.txt
 ```
 # [ Running ]
 ```
-$ python2 fbi.py
+$ python2 fbtool.sh
 ```
 
